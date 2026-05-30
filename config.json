@@ -1,0 +1,52 @@
+{
+  "version": "2.0.0",
+  "language": "en",
+  "accent_color": "#dc2626",
+  "theme_mode": "dark",
+  "startup_checks": true,
+  "osSupport": [
+    "Windows 10",
+    "Windows 11"
+  ],
+  "profiles": {
+    "Gaming": {
+      "label": "Gaming",
+      "description": "High performance, disable telemetry, disable visual effects",
+      "actions": [
+        "performance._visual_best",
+        "performance._cpu_programs",
+        "tweaks._disable_copilot"
+      ]
+    },
+    "Privacy Max": {
+      "label": "Privacy Max",
+      "description": "Maximum privacy: telemetry off, Cortana off, ads off, diagnostics minimal",
+      "actions": [
+        "privacy._disable_telemetry",
+        "privacy._disable_cortana",
+        "privacy._disable_ads",
+        "privacy._diagnostic_min"
+      ]
+    },
+    "Fresh Install": {
+      "label": "Fresh Install",
+      "description": "Clean up and optimize a fresh Windows installation",
+      "actions": [
+        "cleaner._clean_all",
+        "tweaks._disable_copilot",
+        "tweaks._disable_widgets",
+        "tweaks._disable_chat",
+        "tweaks._disable_start_ads"
+      ]
+    },
+    "Office": {
+      "label": "Office / Workstation",
+      "description": "Balanced settings for productivity and stability",
+      "actions": [
+        "performance._visual_default",
+        "performance._cpu_background",
+        "performance._set_power_plan_balanced"
+      ]
+    }
+  }
+}

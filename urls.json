@@ -1,0 +1,162 @@
+{
+  "googleChrome": {
+    "url": "https://dl.google.com/chrome/install/latest/chrome_installer.exe",
+    "type": "exe",
+    "args": "/silent /install"
+  },
+  "firefox": {
+    "url": "https://download.mozilla.org/?product=firefox-latest&os=win64&lang=en-US",
+    "type": "exe",
+    "args": "-ms"
+  },
+  "brave": {
+    "url": "https://laptop-updates.brave.com/latest/winx64",
+    "type": "exe",
+    "args": "/silent /install"
+  },
+  "edgeChromium": {
+    "url": "https://go.microsoft.com/fwlink/?linkid=2093431",
+    "type": "msi",
+    "args": "/quiet"
+  },
+  "potplayer": {
+    "url": "https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe",
+    "type": "exe",
+    "args": "/S"
+  },
+  "7zip": {
+    "url": "",
+    "type": "winget",
+    "args": "",
+    "winget_id": "7zip.7zip"
+  },
+  "driverEasy": {
+    "url": "https://www.drivereasy.com/api/download/latest",
+    "type": "exe",
+    "args": "/install",
+    "winget_id": "DriverEasy.DriverEasy"
+  },
+  "iobitDriverBooster": {
+    "url": "https://cdn.iobit.com/dl/driver_booster_setup.exe",
+    "type": "exe",
+    "args": "/silent"
+  },
+  "ytDlp": {
+    "url": "https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp.exe",
+    "type": "exe"
+  },
+  "vcredistAIO": {
+    "url": "https://github.com/abbodi1406/vcredist/releases/latest/download/VisualCppRedist_AIO_x86_x64.exe",
+    "type": "exe",
+    "args": "/ai"
+  },
+  "directX": {
+    "url": "https://download.microsoft.com/download/1/7/1/1718CCC4-6315-4D8E-9543-8E28A4E18C4C/dxwebsetup.exe",
+    "type": "exe",
+    "args": ""
+  },
+  "oneDrive": {
+    "url": "https://go.microsoft.com/fwlink/p/?LinkID=2127812",
+    "type": "exe"
+  },
+  "everything": {
+    "url": "",
+    "type": "winget",
+    "winget_id": "voidtools.Everything"
+  },
+  "treesize": {
+    "url": "",
+    "type": "winget",
+    "winget_id": "JAMSoftware.TreeSize.Free"
+  },
+  "crystalDiskInfo": {
+    "url": "",
+    "type": "winget",
+    "winget_id": "CrystalDewWorld.CrystalDiskInfo"
+  },
+  "hwinfo": {
+    "url": "",
+    "type": "winget",
+    "winget_id": "REALiX.HWiNFO"
+  },
+  "notepadpp": {
+    "url": "",
+    "type": "winget",
+    "winget_id": "Notepad++.Notepad++"
+  },
+  "windirstat": {
+    "url": "",
+    "type": "winget",
+    "winget_id": "WinDirStat.WinDirStat"
+  },
+  "git": {
+    "url": "",
+    "type": "winget",
+    "winget_id": "Git.Git"
+  },
+  "vscode": {
+    "url": "",
+    "type": "winget",
+    "winget_id": "Microsoft.VisualStudioCode"
+  },
+  "python313": {
+    "url": "",
+    "type": "winget",
+    "winget_id": "Python.Python.3.13"
+  },
+  "nodejs": {
+    "url": "",
+    "type": "winget",
+    "winget_id": "OpenJS.NodeJS.LTS"
+  },
+  "windowsTerminal": {
+    "url": "",
+    "type": "winget",
+    "winget_id": "Microsoft.WindowsTerminal"
+  },
+  "postman": {
+    "url": "",
+    "type": "winget",
+    "winget_id": "Postman.Postman"
+  },
+  "steam": {
+    "url": "",
+    "type": "winget",
+    "winget_id": "Valve.Steam"
+  },
+  "epicGames": {
+    "url": "",
+    "type": "winget",
+    "winget_id": "EpicGames.EpicGamesLauncher"
+  },
+  "gogGalaxy": {
+    "url": "",
+    "type": "winget",
+    "winget_id": "GOG.Galaxy"
+  },
+  "discord": {
+    "url": "",
+    "type": "winget",
+    "winget_id": "Discord.Discord"
+  },
+  "msiAfterburner": {
+    "url": "",
+    "type": "winget",
+    "winget_id": "Guru3D.Afterburner"
+  },
+  "malwarebytes": {
+    "url": "",
+    "type": "winget",
+    "winget_id": "Malwarebytes.Malwarebytes"
+  },
+  "bitwarden": {
+    "url": "",
+    "type": "winget",
+    "winget_id": "Bitwarden.Bitwarden"
+  },
+  "wireshark": {
+    "url": "",
+    "type": "winget",
+    "winget_id": "WiresharkFoundation.Wireshark"
+  }
+}
