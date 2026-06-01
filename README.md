@@ -16,7 +16,8 @@
 
 **AnonBOT Toolbox** is a desktop application for configuring, tweaking, cleaning, and personalizing Windows 10 and 11. It combines system utilities, registry tweaks, privacy controls, application installers, and visual customization in one cohesive interface — all with full Polish and English localization.
 
-![Dashboard Preview](https://via.placeholder.com/800x450/1e1e2e/7c3aed?text=AnonBOT+Toolbox+—+Screenshot)
+<img width="1201" height="829" alt="{C4DC17B2-BB2D-4687-8485-4C27A3E31E65}" src="https://github.com/user-attachments/assets/f4d9cf77-6b4f-4a57-bbef-690d863f7cb4" />
+
 
 ## ✨ Features
 
